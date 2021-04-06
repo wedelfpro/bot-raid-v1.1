@@ -1,0 +1,7 @@
+para crear el bot se deberia de tener la aplicacion "visual estudio core"
+link de descarga: https://code.visualstudio.com/
+en una carpeta nueva pondras en la barra donde aparece su nombre "cmd" eso te abrira simbolo del sistema
+ya en cmd pondras npm init -1
+despues pondras npm install discord.js
+arrastras la carpeta hacia la app o buscaras la carpeta en la app
+derechos de autor: brunoB and Samy2005
